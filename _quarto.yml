@@ -14,6 +14,10 @@ website:
         href: https://www.linkedin.com/in/anurag629/
       - icon: instagram
         href: https://www.instagram.com/anurag_629/
+  comments:
+    giscus:
+      repo: anurag629/codercops
+
 format:
   html:
     theme: cosmo
@@ -21,7 +25,4 @@ format:
 
 editor: visual
 
-comments:
-  giscus:
-    repo: anurag629/codercops
 
