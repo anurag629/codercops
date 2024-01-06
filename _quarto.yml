@@ -7,13 +7,21 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/anurag629
       - icon: twitter
-        href: https://twitter.com
+        href: https://twitter.com/anurag_629
+      - icon: linkedin
+        href: https://www.linkedin.com/in/anurag629/
+      - icon: instagram
+        href: https://www.instagram.com/anurag_629/
 format:
   html:
     theme: cosmo
     css: styles.css
 
+editor: visual
 
+comments:
+  giscus:
+    repo: anurag629/codercops
 
